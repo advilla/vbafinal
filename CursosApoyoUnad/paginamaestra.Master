@@ -1,0 +1,63 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="paginamaestra.master.vb" Inherits="CursosApoyoUnad.paginamaestra" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link href="estilos.css" rel="stylesheet" type="text/css" />
+    <title>Cursos de Apoyo UNAD</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    
+    <div id="contenedor"> 
+    
+      <div id="encabezado">
+        <div id="logo_encabezado"><img src="imag/logo_unad.png" width="120" height="104" /></div>
+        <div id="nombre_pagina">
+        <p>ECTBI - Ingeniería de Sistemas<br/>
+        Cursos de apoyo</p>
+        </div>
+      </div>
+
+      <div id="contenido">
+
+            <form id="form1" runat="server">
+      
+
+       <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+                
+
+            </asp:ContentPlaceHolder>
+        </div>
+     
+    </form>
+
+      </div>
+
+    <div id="pie">
+
+        <table width="960" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="230"><div id="logo_pie"><img src="imag/logo_unad_pie.png" width="166" height="42" alt=""/></div></td>
+        <td width="500"><div id="espacio_texto_pie">
+      Programa: Ingeniería de Sistemas <br />
+      Curso:Visual Basic Avanzado<br />
+            Grupo Colaborativo Nº 405021_15<br />
+            UNAD - 2019 </div></td>
+        <td width="230"><div id="logo_autor">
+        <img src="imag/logo_autores.png" width="132" height="80"></div></td>
+      </tr>
+    </table>
+
+    </div>
+
+   
+  </div>
+ 
+</body>
+</html>

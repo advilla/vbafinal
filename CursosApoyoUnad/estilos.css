@@ -1,0 +1,356 @@
+﻿body {
+    
+    margin: 0px 0px 0px 0px;    
+    background-repeat: repeat;
+}
+
+#contenedor {
+    width: 1000px;
+    height: auto;
+    background-color: #FFFFFF;
+    margin: 20px auto 20px auto;    
+    padding: 15px;
+    border: 10px solid #F0B429;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    -webkit-box-shadow: 0px 0px 20px #333333;
+    -moz-box-shadow: 0px 0px 20px #333333;
+    box-shadow: 0px 0px 20px #333333;
+    background-image: url(imag/fondo.png);
+    background-repeat: repeat;
+}
+
+
+/* Características del encabezado */
+
+#encabezado {
+    width: 958px;
+    height: 120px;
+    padding: 5px 10px 10px 10px;
+    margin: 10px auto 0px auto;
+    border: 0px;
+    background-color: #FFFFFF;
+    border: 1px solid #808080;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+#logo_encabezado {
+    width: 120px;
+    height: 104px;    
+    margin: 10px 25px 10px 25px;
+    float: left;
+}
+
+#nombre_pagina {
+    width: auto;
+    height: 90px;    
+    margin: 0px 25px 5px 25px;    
+    float: right;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 30px;
+    color: #005883;
+}
+
+/* Características del espacio para el contenido de la pagina */
+
+#contenido {
+    width: 934px;
+    height: auto;    
+    margin: 20px auto auto auto;
+    padding: 20px;
+    background-color: #FFFFFF;
+    border: 3px solid #808080;
+}
+
+#nombre_usuario {
+    width: auto;
+    height: 20px;    
+    margin: 0px auto 10px auto;    
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 15px;
+    color: #005883;
+    text-align: right;
+}
+
+#contenido_izquierdo {
+    width: 585px;
+    height: auto;
+    margin-left: auto;
+    margin-right: 10px;
+    background-color: #FFFFFF;
+    float: left;
+}
+
+#contenido_derecho {
+    width: 320px;
+    height: auto;
+    margin-left: 10px;
+    margin-right: auto;
+    padding: 0;
+    background-color: #FFFFFF;
+    float: right;
+    border: 1px solid #808080;
+}
+
+.titulo_contenido {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #333;
+    font-weight: bold;
+    text-align: center;
+}
+
+.subtitulo_contenido {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+    text-align: left;
+}
+
+.texto_contenido {
+    font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: justify;
+}
+
+.texto_contenido_centro {
+    font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: justify;
+    text-align: center;
+}
+
+#centrar {
+    text-align: center;
+    margin: 60px auto 20px auto;    
+}
+
+/* botones y enlaces*/
+
+.boton {
+    width: 200px;
+    height: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    font-size: 18px;
+    padding: 10px 15px 10px 15px;    
+    margin: 5px auto 10px auto;    
+    background-color: #005883;
+}
+
+    .boton:hover {
+        background-color: #EDB34E;
+    }
+
+    .boton a {
+        color: #FFFFFF;
+        text-decoration: none;
+        display: block;
+    }
+
+        .boton a:hover {
+            color: #333;
+            text-decoration: underline;
+        }
+
+
+.enlace {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #005883;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+    .enlace:hover {
+        text-decoration: underline;
+        color: #F0B429;
+        font-weight: bold;
+    }
+
+    .enlace a {
+        color: #005883;
+        text-decoration: none;
+    }
+
+        .enlace a:hover {
+            color: #F0B429;
+            text-decoration: underline;
+        }
+
+
+
+.regresar {
+    width: 150px;
+    height: 14px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    font-size: 14px;
+    padding: 10px 10px 10px 10px;    
+    margin: 0px auto 0px auto;
+    background-color: #005883;
+}
+
+    .regresar:hover {
+        background-color: #EDB34E;
+    }
+
+    .regresar a {
+        color: #FFFFFF;
+        text-decoration: none;
+        display: block;
+    }
+
+        .regresar a:hover {
+            color: #333;
+            text-decoration: underline;
+        }
+
+.boton_cursos {
+    width: 300px;
+    height: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    font-size: 18px;
+    padding: 10px 15px 10px 15px;
+    margin: 10px auto 20px auto;
+    background-color: #005883;
+}
+
+    .boton_cursos:hover {
+        background-color: #EDB34E;
+    }
+
+    .boton_cursos a {
+        color: #FFFFFF;
+        text-decoration: none;
+        display: block;
+    }
+
+        .boton_cursos a:hover {
+            color: #333;
+            text-decoration: underline;
+        }
+
+
+.btncursos {
+    background-color: #005883;
+    color: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    cursor: pointer;
+    width: 300px;
+    height: 50px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+    .btncursos:hover {
+        opacity: 0.8;
+    }
+
+
+.centrar_botones {
+    text-align: center;
+    margin: 20px auto 20px auto;
+}
+
+
+
+/* Características del login */
+
+.container {
+    padding: 16px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.txtUsername, .txtpassword {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.btnAceptar {
+    background-color: #005883;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 150px;
+    font-size: 15px;
+    float: right;
+}
+
+    /* Add a hover effect for buttons */
+    .btnAceptar:hover {
+        opacity: 0.8;
+    }
+
+/* Extra style for the cancel button (red) */
+.btnCancelar {
+    width: auto;
+    padding: 10px 18px;
+    background-color: darkgrey;
+    color: white;
+}
+
+
+/* Caracetrísticas para el espacio del pie de página  */
+
+#pie {
+    width: 960px;
+    height: 100px;
+    margin: 20px auto 10px auto;    
+    padding: 10px;
+    border: 1px solid #808080;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #FFFFFF;
+}
+
+#logo_pie {
+    width: 177px;
+    height: 42px;
+    margin: 25px;
+    float: left;
+}
+
+#espacio_texto_pie {
+    width: 450px;
+    height: auto;
+    margin: 10px 20px 10px auto;
+    float: right;
+    font-family: Verdana, Arial, Geneva;
+    font-size: 15px;
+    color: #000000;
+    text-align: center;
+}
+
+#logo_autor {
+    width: 132px;
+    height: 80px;
+    margin-right: 20px;
+    float: right;
+}

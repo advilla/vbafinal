@@ -1,0 +1,39 @@
+c:\users\jhona\source\repos\CursosApoyoUnad\CursosApoyoUnad\bin\CursosApoyoUnad.dll.config
+c:\users\jhona\source\repos\CursosApoyoUnad\CursosApoyoUnad\bin\CursosApoyoUnad.dll
+c:\users\jhona\source\repos\CursosApoyoUnad\CursosApoyoUnad\bin\CursosApoyoUnad.pdb
+c:\users\jhona\source\repos\CursosApoyoUnad\CursosApoyoUnad\bin\CursosApoyoUnad.xml
+c:\users\jhona\source\repos\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.vbprojAssemblyReference.cache
+c:\users\jhona\source\repos\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.Resources.resources
+c:\users\jhona\source\repos\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.vbproj.GenerateResource.cache
+c:\users\jhona\source\repos\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.vbproj.CoreCompileInputs.cache
+c:\users\jhona\source\repos\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.dll
+c:\users\jhona\source\repos\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.xml
+c:\users\jhona\source\repos\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.pdb
+c:\users\jhona\source\repos\CursosApoyoUnad\CursosApoyoUnad\bin\mysql.data.dll
+c:\users\jhona\source\repos\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.vbproj.CopyComplete
+E:\CursosApoyoUnad\CursosApoyoUnad\bin\CursosApoyoUnad.dll.config
+E:\CursosApoyoUnad\CursosApoyoUnad\bin\CursosApoyoUnad.dll
+E:\CursosApoyoUnad\CursosApoyoUnad\bin\CursosApoyoUnad.pdb
+E:\CursosApoyoUnad\CursosApoyoUnad\bin\CursosApoyoUnad.xml
+E:\CursosApoyoUnad\CursosApoyoUnad\bin\mysql.data.dll
+E:\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.vbprojAssemblyReference.cache
+E:\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.Resources.resources
+E:\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.vbproj.GenerateResource.cache
+E:\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.vbproj.CoreCompileInputs.cache
+E:\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.vbproj.CopyComplete
+E:\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.dll
+E:\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.xml
+E:\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.pdb
+F:\INGENIERÍA DE SISTEMAS UNAD\6. SEXTO SEMESTRE - 2019\7. VISUAL BASIC AVANZADO\4. CUARTA ACTIVIDAD\CursosApoyoUnad\CursosApoyoUnad\bin\CursosApoyoUnad.dll.config
+F:\INGENIERÍA DE SISTEMAS UNAD\6. SEXTO SEMESTRE - 2019\7. VISUAL BASIC AVANZADO\4. CUARTA ACTIVIDAD\CursosApoyoUnad\CursosApoyoUnad\bin\CursosApoyoUnad.dll
+F:\INGENIERÍA DE SISTEMAS UNAD\6. SEXTO SEMESTRE - 2019\7. VISUAL BASIC AVANZADO\4. CUARTA ACTIVIDAD\CursosApoyoUnad\CursosApoyoUnad\bin\CursosApoyoUnad.pdb
+F:\INGENIERÍA DE SISTEMAS UNAD\6. SEXTO SEMESTRE - 2019\7. VISUAL BASIC AVANZADO\4. CUARTA ACTIVIDAD\CursosApoyoUnad\CursosApoyoUnad\bin\CursosApoyoUnad.xml
+F:\INGENIERÍA DE SISTEMAS UNAD\6. SEXTO SEMESTRE - 2019\7. VISUAL BASIC AVANZADO\4. CUARTA ACTIVIDAD\CursosApoyoUnad\CursosApoyoUnad\bin\mysql.data.dll
+F:\INGENIERÍA DE SISTEMAS UNAD\6. SEXTO SEMESTRE - 2019\7. VISUAL BASIC AVANZADO\4. CUARTA ACTIVIDAD\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.vbprojAssemblyReference.cache
+F:\INGENIERÍA DE SISTEMAS UNAD\6. SEXTO SEMESTRE - 2019\7. VISUAL BASIC AVANZADO\4. CUARTA ACTIVIDAD\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.Resources.resources
+F:\INGENIERÍA DE SISTEMAS UNAD\6. SEXTO SEMESTRE - 2019\7. VISUAL BASIC AVANZADO\4. CUARTA ACTIVIDAD\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.vbproj.GenerateResource.cache
+F:\INGENIERÍA DE SISTEMAS UNAD\6. SEXTO SEMESTRE - 2019\7. VISUAL BASIC AVANZADO\4. CUARTA ACTIVIDAD\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.vbproj.CoreCompileInputs.cache
+F:\INGENIERÍA DE SISTEMAS UNAD\6. SEXTO SEMESTRE - 2019\7. VISUAL BASIC AVANZADO\4. CUARTA ACTIVIDAD\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.vbproj.CopyComplete
+F:\INGENIERÍA DE SISTEMAS UNAD\6. SEXTO SEMESTRE - 2019\7. VISUAL BASIC AVANZADO\4. CUARTA ACTIVIDAD\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.dll
+F:\INGENIERÍA DE SISTEMAS UNAD\6. SEXTO SEMESTRE - 2019\7. VISUAL BASIC AVANZADO\4. CUARTA ACTIVIDAD\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.xml
+F:\INGENIERÍA DE SISTEMAS UNAD\6. SEXTO SEMESTRE - 2019\7. VISUAL BASIC AVANZADO\4. CUARTA ACTIVIDAD\CursosApoyoUnad\CursosApoyoUnad\obj\Debug\CursosApoyoUnad.pdb
